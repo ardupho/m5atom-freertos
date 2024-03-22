@@ -6,3 +6,5 @@
     - Crear una tarea para cada uno de los tres LED de la matriz que se encienden y apagan de acuerdo con diferentes tiempos           
 - [x] 03 Enviando datos entre tareas [aquí](/03_queue_tasks/)
     - Crear una queue, enviar y recibir datos entre dos tareas           
+- [x] 04 Jugando con el timer [aquí](/04_timer_tasks/)
+    - Crear una alarma            
